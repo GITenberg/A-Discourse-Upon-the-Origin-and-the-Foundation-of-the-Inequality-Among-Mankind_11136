@@ -1,7 +1,10 @@
 _repo: A-Discourse-Upon-the-Origin-and-the-Foundation-of-the-Inequality-Among-Mankind_11136
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: Discours sur l'origine et les fondements de l'inégalité parmi les
   hommes. English
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Rousseau, Jean-Jacques
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1286
     wikipedia: http://en.wikipedia.org/wiki/Jean-Jacques_Rousseau
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11136#A-Discourse-Upon-the-Origin-and-the-Foundation-of-the-Inequality-Among-Mankind
 gutenberg_issued: '2004-02-01'
 gutenberg_type: Text
 identifiers:
